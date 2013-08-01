@@ -61,5 +61,7 @@ class BowlingGame
     return total_score
   end
 
+  # TODO: refactor 'score' method above. Red Sonny's example on github for help
+
 
 end
